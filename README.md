@@ -8,8 +8,8 @@ Material Design is a visual language that synthesizes the classic principles of 
 
 Note: The animation lags in the above demo because of the conversion of video into GIF.
 ### About the application:
-This first screen of application will show you pictures of animals and provide you aptions. If your answer is right then an animation will proceed and you will head to the next picture.
-At the end of the quix you will get your result.
+This first screen of application will show you pictures of animals and provide you options. If your answer is right then an animation will proceed and you will head to the next picture.
+At the end of the quiz you will get your result.
 
 User can change the background color of application.
 User can change the number of options that will appear on the screen.
